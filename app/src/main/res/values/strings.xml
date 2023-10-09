@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="calculate_sum">Calculate sum</string>
+    <string name="first_number">Enter First Number</string>
+    <string name="second_number">Enter Second Number</string>
+    <string name="calculate_sum_answer">Calculated Sum Is </string>
+</resources>
